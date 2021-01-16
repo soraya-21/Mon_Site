@@ -1,0 +1,91 @@
+head  {
+    height: 90px;
+    margin: 0;
+    background : #NNNNNN; 
+}
+body
+{
+	background-image:url(../images/bg.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+a
+{
+	text-decoration:none;
+}
+a:hover
+{
+	color: black;
+}
+li
+{
+	display: inline-block;
+}
+.thebody
+{
+	margin: auto;
+  	width: 50%;
+}
+.profil
+{
+	margin-top: 40px;
+	margin-right: 50px;
+}
+.firstcontainer
+{
+	width: 87em;
+}
+.containerimgntext
+{
+	vertical-align: top;
+	float: left;
+	width: 40em;
+}
+.containernavbar
+{
+	vertical-align: top;
+	float: right;
+	width: 40em;
+}
+.image
+{
+	width: 100em
+}
+
+.flex-container
+{
+	width: 80em;
+}
+.containertext
+{
+	vertical-align: top;
+	float: left;
+	width: 50em;
+}
+.text
+{
+	margin-left: 10px;
+}
+.containerimg
+{
+	border-radius: 10px;
+	border: 3px transparent solid;
+	margin-right: 28px;
+	vertical-align: top;
+	float: right;
+	width: 25em;
+}
+.photo
+{
+	margin-left: 50px;
+}
+.moi
+{
+	border: 3px black solid;
+	height : 20em;
+	width : 20em;
+}
+.epitech
+{
+	width: 40em;		
+}
